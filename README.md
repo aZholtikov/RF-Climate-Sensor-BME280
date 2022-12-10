@@ -10,7 +10,7 @@ Climate sensor on ATmega328 + RF24 + BME280.
 
 ## Note
 
-A gateway is required. For details see "RF - ESP-NOW Gateway".
+A gateway is required. For details see "RF Gateway".
 
 ## Full config example for Home Assistant
 
